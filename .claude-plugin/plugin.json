@@ -1,0 +1,7 @@
+{
+  "name": "ai-video-editor",
+  "version": "1.0.0",
+  "description": "Run Auto-Cut AI, a Python CLI that turns a raw talking-head video into a captioned social clip with B-roll, music and sound effects, using faster-whisper, an LLM through LiteLLM, Pexels and Pixabay.",
+  "repository": "https://github.com/Achi-Akira/AI-Video-Editor",
+  "keywords": ["video", "editing", "captions", "talking-head", "b-roll", "whisper", "litellm"]
+}
